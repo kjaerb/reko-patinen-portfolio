@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Reko Patinen - Portfolio',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://reko-patinen-portfolio.vercel.app/',
   author: 'Reko Patinen',
 
   // open graph metadata (optional)
